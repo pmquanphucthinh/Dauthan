@@ -15,7 +15,7 @@ PATH = os.path.abspath(os.path.dirname(__file__))
 os.chdir(PATH)
 
 # Set up GitHub repository details
-repository_name = 'BreadcrumbsDauthan'
+repository_name = 'Dauthan'
 branch_name = None
 AUTHOR_NAME = 'pmquanphucthinh'
 AUTHOR_EMAIL = os.environ.get('GIT_EMAIL', '93466776+pmquanphucthinh@users.noreply.github.com')
