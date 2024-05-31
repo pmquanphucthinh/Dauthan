@@ -37,7 +37,7 @@ def fetch_issues():
     :return: list of issues with the given label and state or None if the request fails
     """
     # Set up GitHub API URL
-    ISSUE_API_URL = f'https://api.github.com/repos/{AUTHOR_NAME}/{repository_name}/issues'
+    ISSUE_API_URL = f'https://api.github.com/repos/pmquanphucthinh/Dauthan/issues'
 
     # API Parameters for filtering issues by label and state
     API_PARAM = {
